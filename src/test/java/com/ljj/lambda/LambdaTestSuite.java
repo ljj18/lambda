@@ -13,11 +13,11 @@ import org.junit.runners.Suite.SuiteClasses;
 /**
  * TODO: 文件注释
  * 
- * Version		1.0.0      
+ * Version 1.0.0
  * 
- * @author		liangjinjing
+ * @author liangjinjing
  * 
- * Date			2018-08-23 15:50
+ * Date 2018-08-23 15:50
  * 
  */
 @ RunWith(Suite.class)
